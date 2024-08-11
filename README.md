@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Flo-ey
+- 👋 Hi, I’m Chidozie Okezie
 - 👀 I’m interested in Data Science and AI Engineering.
 - 🌱 I’m currently learning Python programming.
 - 💞️ I’m looking to collaborate on any instructor/mentor for guidance. 
